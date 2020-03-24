@@ -1,6 +1,6 @@
 # RC-Lib
 
-Knjižnica je še v fazi razvoja, prav tako tudi git repo.
+Knjižnica je še v fazi razvoja, prav tako tudi ta datoteka.
 
 Knjižnica trenutno vključuje:
 - Generiranje PŠM za več naprav
