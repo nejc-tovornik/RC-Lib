@@ -7,8 +7,8 @@ Knjižnica trenutno vključuje:
 - Vodenje PŠM preko USB VCP vmesnika
 
 Za dodati:
-- [] Implimentacija vračanja napak funkcij
-- [] Implimentacija PPM (pulse-position modulation) generiranje in branje
+- [ ] Implimentacija vračanja napak funkcij
+- [ ] Implimentacija PPM (pulse-position modulation) generiranje in branje
 - [x] Funkcija za izbiro naprave na seznamu s parametrom *dev
 
 ## Ukazi USB VCP vmesnika
