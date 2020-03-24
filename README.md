@@ -9,7 +9,6 @@ Knjižnica trenutno vključuje:
 Za dodati:
 - [ ] Implimentacija vračanja napak funkcij
 - [ ] Implimentacija PPM (pulse-position modulation) generiranje in branje
-- [x] Funkcija za izbiro naprave na seznamu s parametrom *dev
 
 ## Ukazi USB VCP vmesnika
 
