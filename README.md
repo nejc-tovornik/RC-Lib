@@ -8,4 +8,5 @@ Knjižnica trenutno vključuje:
 
 Za dodati:
 - Implimentacija vračanja napak funkcij
+- Implimentacija PPM (pulse-position modulation) generiranje in branje
 - ~~Funkcija za izbiro naprave na seznamu s parametrom *dev~~
