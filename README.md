@@ -8,4 +8,4 @@ Knjižnica trenutno vključuje:
 
 Za dodati:
 - Implimentacija vračanja napak funkcij
-- Funkcija za izbiro naprave na seznamu s parametrom *dev 
+- ~~Funkcija za izbiro naprave na seznamu s parametrom *dev~~
