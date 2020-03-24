@@ -383,6 +383,28 @@ void RC_setSelectedIndexInControlList(int index) {
 		USB_CONTROL_RC = USB_CONTROL_RC_LIST[index];
 	}
 }
+/*
+ * @brief Izberi napravo s seznama za VCP krmiljenje
+ *
+ * @param *dev: Kazalec
+ *
+ * @retval None
+ */
+void RC_setSelectedDevInControlList(RC *dev) {
+	if (stack_top == -1) {
+		//Napaka: Seznam ni aktiviran, najprej dodaj napravo na seznam.
+		return;
+	}
+
+	for (int i = 0; i < stack_top + 1; i++) {
+		if (USB_CONTROL_RC_LIST[i] == dev) {
+			USB_CONTROL_RC = USB_CONTROL_RC_LIST[i];
+			return;
+		} else {
+			//Napaka: Ni dane naprave na seznamu
+		}
+	}
+}
 
 //============================== PREJEMANJE UKAZOV ==============================
 
